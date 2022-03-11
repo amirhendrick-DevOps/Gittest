@@ -1,4 +1,6 @@
-…or create a new repository on the command line
+i…or create a new repository on the command line
+
+This is a sample update and not a git command
 
 echo "# Gittest" >> README.md
 git init
